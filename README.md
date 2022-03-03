@@ -2,13 +2,11 @@
 
 ### What has happened
 
-<details>
-  <summary>"Let's have a look shall we"</summary>
-  Added some text files/
-  Practiced with reverting files (evidence deleted)/
-  Got upset at VIM and config to Nano/
-  Used a group repo successfully/
-</details>
+
+Added some text files\
+Practiced with reverting files (evidence deleted)\
+Got upset at VIM and config to Nano\
+Used a group repo successfully\
 
 I have added the needed text to the python file so we get:
 
