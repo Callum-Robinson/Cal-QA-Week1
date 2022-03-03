@@ -15,6 +15,9 @@ I have added the needed text to the python file so we get:
 
 
 
+
+
+
 |Nano         |Vim         |
 |-------------|------------|
 |Nice and Easy| Made Me Cry|
