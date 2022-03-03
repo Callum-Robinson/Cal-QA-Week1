@@ -4,7 +4,7 @@
 
 <details>
   <summary>"Let's have a look shall we"</summary>
-  * Added some text files  
+  * Added some text files
   * Practiced with reverting files (evidence deleted)  
   * Got upset at VIM and config to Nano  
   * Used a group repo successfully  
