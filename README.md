@@ -8,7 +8,7 @@
 * Practiced with reverting files (evidence deleted)
 * Got upset at VIM and config to Nano
 * Used a group repo successfully
-<details>
+</details>
 
 I have added the needed text to the python file so we get:
 
