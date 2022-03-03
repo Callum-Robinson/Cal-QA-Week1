@@ -3,10 +3,10 @@
 ### What has happened
 
 
-Added some text files\
-Practiced with reverting files (evidence deleted)\
-Got upset at VIM and config to Nano\
-Used a group repo successfully\
+* Added some text files\
+* Practiced with reverting files (evidence deleted)\
+* Got upset at VIM and config to Nano\
+* Used a group repo successfully\
 
 I have added the needed text to the python file so we get:
 
