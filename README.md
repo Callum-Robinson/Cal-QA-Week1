@@ -14,10 +14,6 @@ I have added the needed text to the python file so we get:
 <img align="center" width="400" height"275" src="https://user-images.githubusercontent.com/100779521/156583885-8f72ed22-c651-440c-858c-ab2deac174f0.jpg">
 
 
-
-
-
-
 |Nano         |Vim         |
 |-------------|------------|
 |Nice and Easy| Made Me Cry|
